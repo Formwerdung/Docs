@@ -17,7 +17,7 @@
 *IE*
 - 10
 - 11
-- Edge
+- 12 (Edge)
 
 *Safari*
 - 8 (unsupported by Safari team)
