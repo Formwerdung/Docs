@@ -1,5 +1,5 @@
 # Supported Browsers 
-> Status 13/10/2015
+> Status 4/11/2015
 
 *Firefox*
 - 38.3.0 ESR
@@ -36,6 +36,6 @@
 - 8
 - 9
 
-*Android Bworser*
+*Android Browser*
 - 4.3
 - 4.4
