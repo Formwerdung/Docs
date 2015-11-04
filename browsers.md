@@ -15,10 +15,27 @@
 - 46
 
 *IE*
+- 9
 - 10
 - 11
-- 12 (Edge)
 
-*Safari*
+*Edge*
+- 12
+- 13
+
+*IE Mobile*
+- 11
+
+*Safari Desktop*
+- 7.1
 - 8 (unsupported by Safari team)
 - 9
+
+*Safari & Chrome iOS*
+- 7.1
+- 8
+- 9
+
+*Android Bworser*
+- 4.3
+- 4.4
