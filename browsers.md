@@ -8,7 +8,7 @@ These are the browsers that we support out of the box in each of our projects, c
 - Browser does not lack significant features *or* exhibits feature declaration bugs (IE 8, Safari 6.1)
 - Browser is a test release
 
-We aim for a coverage of 90% in usage percentage. Note that the actual coverage is higher because 1) certain browsers are not accounted for in the statistics and 2) not testing for a browser does not necessarily imply that it the website is *not* displayed properly supported. just because we. Other browsers must be agreed upon individually. "Support" does not imply that site look the same on all browsers, principles of graceful degradation are applied. For more info, check the [general remarks]().
+We aim for a coverage of 90% in usage percentage. Note that the actual coverage might be higher because 1) certain browsers are not accounted for in the statistics and 2) not testing for a browser does not imply that the website is *not* displayed properly. "Support" does not imply that the site will look the same on all browsers, principles of graceful degradation are applied. For more info, check the [general remarks]().
 
 | Browser     | CH Support in % |
 |:------------|----------------:|
