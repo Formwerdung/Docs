@@ -24,39 +24,37 @@ We aim for a coverage of 90% in usage percentage. Note that the actual coverage 
 | **Chrome**  |                 |
 | 45          | 8.7             |
 | 46          | 8.48            |
-
-
-*Opera*
-- *32 (0.55%)*
-
-*IE*
-- 9 (CH: 1.33%)
-- 10 (CH: 1.02%)
-- 11 (CH: 13.08%)
-
-*Edge*
-- 12 (CH: 1.41%)
-- 13
-
-*IE Mobile*
-- 11 (0.52%)
-
-*Safari Desktop*
-- 7.1 (CH: 0.72%)
-- 8 (CH: 2.56%)
-- 9 (CH: 3.82%)
-
-*Safari & Chrome iOS*
-- 7.1 (CH: 1.14%)
-- 8 (CH: 5.23%, of which 8.4 is 5.08%)
-- 9 (14.54%)
-
-*Android Browser*
-- *4.2 - 4.3 (0.63%)*
-- 4.4 (1.08%)
-- 4.4.4 (0.61%)
-
-*Chrome for Android*
-46 (9.55%)
-
-Total: 89.70%
+|             |                 |
+| **Chrome for Android**        |
+| 46          | 9.55            |
+|             |                 |
+| **Opera**   |                 |
+| 32          | 0.55            |
+|             |                    |
+| **Internet Explorer**            |
+| 9           | 1.33               |
+| 10          | 1.02               |
+| 11          | 13.08              |
+|             |                    |
+| **Microsoft Edge**               |
+| 12          | 1.41               |
+|             |                    |
+| **IE Mobile**                    |
+| 11          | 0.52               |
+|             |                    |
+| **Safari Desktop**               |
+| 7.1         | 0.72               |
+| 8           | 2.56               |
+| 9           | 3.82               |
+|             |                    |
+| **Safari & Chrome iOS**          |
+| 7.1         | 1.14               |
+| 8           | 5.23 (8.4 is 5.08) |
+| 9           | 14.54              |
+|             |                    |
+| **Android Browser**              |
+| 4.2-4.3     | 0.63               |
+| 4.4         | 1.08               |
+| 4.4.4       | 0.61               |
+|             |                    |
+| Total       | 89.7               |
